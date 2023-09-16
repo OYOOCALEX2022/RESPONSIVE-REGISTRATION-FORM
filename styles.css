@@ -94,6 +94,10 @@ input, select {
     grid-column: 1 / 4;
 }
 
+.hints {
+    background: #00020D;
+}
+
 #btn, #status {
     grid-gap: 0px;
 }
